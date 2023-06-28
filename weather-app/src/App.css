@@ -2,7 +2,6 @@
   min-height: 100vh;
   text-align: center;
   background-image: url('background.jpg');
-  background-size: cover;
 }
 
 .App-logo {
