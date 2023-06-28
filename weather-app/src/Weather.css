@@ -1,6 +1,6 @@
 .Weather{
-    background-color: aquamarine;
     text-align: left;
+    color:antiquewhite;
 }
 
 .Temperature {
@@ -12,16 +12,4 @@
 }
 
 .Wind{
-    margin-bottom: 18px;
-    text-align: right;
-}
-
-.WaterTemp{
-    padding: 3px;
-    border: 3px solid black;
-}
-
-.AtmosphericPress{
-    color: green;
-    text-align: center;
 }

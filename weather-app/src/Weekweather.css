@@ -1,0 +1,10 @@
+.Weekweather{
+    text-align: left;
+    color:antiquewhite;
+    display: flex;
+    margin:5vh;
+    size: 100vh;
+}
+.Nextday{
+    margin: 5vh;
+}

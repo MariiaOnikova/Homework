@@ -1,7 +1,17 @@
 .App {
   min-height: 100vh;
-  text-align: center;
-  background-image: url('background.jpg');
+  margin: 3vh;
+  text-align: left;
+  /*background-image: url('background.jpg');*/
+  background-color: #8d9199;
+
+}
+
+.Container {
+  margin: 3vh;
+  text-align: left;
+  background-color: #353638;
+
 }
 
 .App-logo {
