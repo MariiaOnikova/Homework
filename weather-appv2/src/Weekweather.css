@@ -1,0 +1,9 @@
+.Weekweather{
+    text-align: left;
+    color:antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin:5vh;
+    size: 100vh;
+}

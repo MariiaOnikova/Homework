@@ -1,0 +1,6 @@
+.Currday{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    color:antiquewhite;
+}
